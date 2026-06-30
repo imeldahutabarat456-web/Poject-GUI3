@@ -1,4 +1,4 @@
-#Sistem Informasi Akademik (SIAKAD)
+#SISTEM  INFORMASI AKADEMIK (SIAKAD)
 Aplikasi Sistem Informasi Akademik yang dibangun menggunakan Java Swing dan MySQL sebagai database untuk mengelola data mahasiswa, dosen, mata kuliah, dan transaksi KRS.
 
 Fitur Utama
