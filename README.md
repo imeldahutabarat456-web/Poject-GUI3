@@ -18,3 +18,4 @@ Struktur Database
   mahasiswa: Data profil mahasiswa.
   matakuliah: Katalog mata kuliah.
   krs: Tabel transaksi nilai.
+Lihat video demo aplikasi di sini:https://youtu.be/ABob0kPghjQ?si=O749p6aFuymRkAcB
